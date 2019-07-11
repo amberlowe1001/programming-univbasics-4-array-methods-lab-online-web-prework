@@ -20,10 +20,11 @@ def using_first = ["wow", "I","am","really,"learning","arrays"]
 
 end
 
-def using_last = 
+def using_last = ["wow", "I","am","really,"learning","arrays"]
+using_last.last
 
 end
 
-def using_size(array)
+def using_size = 
 
 end
