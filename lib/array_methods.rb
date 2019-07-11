@@ -1,30 +1,37 @@
-def methods =["wow", "I","am","really","learning","arrays"]
-  using_include.include?("wow")
-  using_include.include?("Tardis")
+def methods =["wow","I","am","really","learning","arrays"]
+  methods.include?("wow")
+  methods.include?("Tardis")
 
   end
 end
 
 def methods =["wow","I","am","really","learning","arrays"]
-  using_sort.sort
+  methods.sort
   
   end
 end
 
 def methods =["wow","I","am","really","learning","arrays"]
+methods.reverse
 
+  end
+end
+
+
+def methods =["wow","I","am","really","learning","arrays"]
+  methods.first
+
+ end
 end
 
 def methods =["wow", "I","am","really","learning","arrays"]
-  using_first.first
+methods.last
 
+  end
 end
 
 def methods =["wow", "I","am","really","learning","arrays"]
-using_last.last
+  methods.size
 
-end
-
-def methods =["wow", "I","am","really","learning","arrays"]
-
+  end
 end
