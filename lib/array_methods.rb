@@ -1,4 +1,5 @@
 def methods =["wow","I","am","really","learning","arrays"]
+ binding.pry
   methods.include?("wow")
   methods.include?("Tardis")
 
