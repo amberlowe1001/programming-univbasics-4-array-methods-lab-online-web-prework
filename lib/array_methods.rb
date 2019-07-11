@@ -5,26 +5,26 @@ def methods =["wow", "I","am","really","learning","arrays"]
   end
 end
 
-def methods =["wow", "I","am","really","learning","arrays"]
+def methods =["wow","I","am","really","learning","arrays"]
   using_sort.sort
   
   end
 end
 
-def methods =["wow", "I","am","really,"learning","arrays"]
+def methods =["wow","I","am","really","learning","arrays"]
 
 end
 
-def methods =["wow", "I","am","really,"learning","arrays"]
+def methods =["wow", "I","am","really","learning","arrays"]
   using_first.first
 
 end
 
-def methods =["wow", "I","am","really,"learning","arrays"]
+def methods =["wow", "I","am","really","learning","arrays"]
 using_last.last
 
 end
 
-def methods =["wow", "I","am","really,"learning","arrays"]
+def methods =["wow", "I","am","really","learning","arrays"]
 
 end
