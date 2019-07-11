@@ -2,11 +2,11 @@ def using_include["wow", "I","am","really","learning","arrays"]]
 
 end
 
-def using_sort[]
+def using_sort["wow", "I","am","really","learning","arrays"]]
 
 end
 
-def using_reverse(array)
+def using_reverse[]
 
 end
 
