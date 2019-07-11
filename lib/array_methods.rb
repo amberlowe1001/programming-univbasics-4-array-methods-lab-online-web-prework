@@ -25,11 +25,9 @@ end
 def methods_last =["wow", "I","am","really","learning","arrays"]
 methods_last.last
 
-  end
 end
 
 def methods_size =["wow", "I","am","really","learning","arrays"]
   methods_size.size
 
-  end
 end
