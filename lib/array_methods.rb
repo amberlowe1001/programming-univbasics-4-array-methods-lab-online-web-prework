@@ -1,5 +1,5 @@
 def methods_include =["wow","I","am","really","learning","arrays"]
- binding.pry
+#binding.pry
   methods_include.include?("wow")
   methods_include.include?("Tardis")
   
